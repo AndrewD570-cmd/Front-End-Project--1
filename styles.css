@@ -2,6 +2,7 @@
 * { 
   box-sizing: border-box;
 }
+
   
 body {
   margin: 0;
@@ -22,6 +23,15 @@ a:hover {
 }
 
 /* Section Styles */
+
+.main-image {
+  border: solid 50px blue;
+  border-radius: 50%;
+}
+
+.bluetext h1 {
+  color: blue;
+}
 
 .main-nav {
   width: 100%;
