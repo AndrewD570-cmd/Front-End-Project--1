@@ -24,8 +24,18 @@ a:hover {
 
 /* Section Styles */
 
+h1.resume-title {
+  background-color: #e2e2e2;
+  padding: 5px;
+
+}
+/* The following makes the text in <h2> uppercase */
+h2.resume-section-title {
+  text-transform: uppercase;
+}
+
 .main-image {
-  border: solid 50px blue;
+  border: solid 50px green;
   border-radius: 50%;
 }
 
