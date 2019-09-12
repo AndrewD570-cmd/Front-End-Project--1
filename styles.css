@@ -224,4 +224,6 @@ a.social:hover {
   }
 
 }
-
+.card-title {
+  text-align: center;
+}
