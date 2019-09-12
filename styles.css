@@ -1,3 +1,5 @@
+/* Look up css properties on: https://css-tricks.com/almanac */
+
 /* Global Layout Set-up */
 * { 
   box-sizing: border-box;
@@ -30,6 +32,12 @@ h1.resume-title {
 
 }
 /* The following makes the text in <h2> uppercase */
+.card-title {
+  text-align: center;
+  border: solid black 3px;
+  border-radius: 10px;
+}
+
 h2.resume-section-title {
   text-transform: uppercase;
 }
@@ -223,7 +231,6 @@ a.social:hover {
     margin: 40px auto;
   }
 
-}
-.card-title {
-  text-align: center;
+ 
+
 }
