@@ -29,7 +29,14 @@ a:hover {
 h1.experience-title {
   background-color: #e2e2e2;
   padding: 5px;
+}
 
+
+  a.links {
+  font-weight: bold;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  
 }
 /* The following makes the text in <h2> uppercase */
 .card-title {
