@@ -44,8 +44,9 @@ h2.resume-section-title {
 }
 
 .main-image {
-  border: solid 50px green;
-  border-radius: 50%;
+  border: solid 10px green;
+  border-radius: 30%;
+  margin-top: 100px;
 }
 
 .bluetext h1 {
