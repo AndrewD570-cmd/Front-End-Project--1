@@ -53,7 +53,7 @@ h2.experience-section-title {
   color: blue;
 }
 
-.main-nav {
+    nav {
   width: 100%;
   background: black;
   min-height: 30px;
@@ -118,7 +118,7 @@ header .profile-image:hover {
   background-color: #222;
   color: yellow;
 }
-.card {
+article {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
