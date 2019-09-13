@@ -26,7 +26,7 @@ a:hover {
 
 /* Section Styles */
 
-h1.resume-title {
+h1.experience-title {
   background-color: #e2e2e2;
   padding: 5px;
 
@@ -39,7 +39,7 @@ h1.resume-title {
   margin-top: 50px;
 }
 
-h2.resume-section-title {
+h2.experience-section-title {
   text-transform: uppercase;
 }
 
