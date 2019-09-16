@@ -108,7 +108,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 90%; /* changed the border-radius and the border properties for exceeds expectations. */
-  border: 20px none black;
+  /* border: 20px none black; */
   transition: all .5s;
 }
 header .profile-image:hover {
